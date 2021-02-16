@@ -1,0 +1,7 @@
+C:\Users\derek\source\repos\ConsoleMathApp\bin\Debug\ConsoleMathApp.exe.config
+C:\Users\derek\source\repos\ConsoleMathApp\bin\Debug\ConsoleMathApp.exe
+C:\Users\derek\source\repos\ConsoleMathApp\bin\Debug\ConsoleMathApp.pdb
+C:\Users\derek\source\repos\ConsoleMathApp\obj\Debug\ConsoleMathApp.csprojAssemblyReference.cache
+C:\Users\derek\source\repos\ConsoleMathApp\obj\Debug\ConsoleMathApp.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\ConsoleMathApp\obj\Debug\ConsoleMathApp.exe
+C:\Users\derek\source\repos\ConsoleMathApp\obj\Debug\ConsoleMathApp.pdb
