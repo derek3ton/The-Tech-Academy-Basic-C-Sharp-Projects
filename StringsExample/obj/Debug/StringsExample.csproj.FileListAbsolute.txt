@@ -1,0 +1,7 @@
+C:\Users\derek\source\repos\StringsExample\bin\Debug\StringsExample.exe.config
+C:\Users\derek\source\repos\StringsExample\bin\Debug\StringsExample.exe
+C:\Users\derek\source\repos\StringsExample\bin\Debug\StringsExample.pdb
+C:\Users\derek\source\repos\StringsExample\obj\Debug\StringsExample.csprojAssemblyReference.cache
+C:\Users\derek\source\repos\StringsExample\obj\Debug\StringsExample.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\StringsExample\obj\Debug\StringsExample.exe
+C:\Users\derek\source\repos\StringsExample\obj\Debug\StringsExample.pdb
