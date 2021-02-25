@@ -1,0 +1,7 @@
+C:\Users\derek\source\repos\6partAssignment\bin\Debug\6partAssignment.exe.config
+C:\Users\derek\source\repos\6partAssignment\bin\Debug\6partAssignment.exe
+C:\Users\derek\source\repos\6partAssignment\bin\Debug\6partAssignment.pdb
+C:\Users\derek\source\repos\6partAssignment\obj\Debug\6partAssignment.csprojAssemblyReference.cache
+C:\Users\derek\source\repos\6partAssignment\obj\Debug\6partAssignment.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\6partAssignment\obj\Debug\6partAssignment.exe
+C:\Users\derek\source\repos\6partAssignment\obj\Debug\6partAssignment.pdb
