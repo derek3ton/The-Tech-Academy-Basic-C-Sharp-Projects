@@ -26,6 +26,9 @@ namespace AssignmentPg226
 
         public int Divide(string num3)
         {
+
+            //int quot = Convert.ToInt32(Div / num3);
+
             int div1 = Convert.ToInt32(Div);
             int div2 = Convert.ToInt32(num3);
             int quot = Convert.ToInt32(div1 / div2);

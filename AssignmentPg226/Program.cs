@@ -18,18 +18,22 @@ namespace AssignmentPg226
             Math math = new Math();
             math.Add = userInput;
             math.Mult = userInput;
-            math.Div = "userInput";
+            
 
             int sum = math.Addition(10);
             Console.WriteLine("The sum of " + userInput + " + 10 is: " + sum);
 
-            int prod = math.Multiply(10);
+            decimal prod = math.Multiply(10);
             Console.WriteLine("The product of " + userInput + " * 10 is: " + prod);
-  
 
             
+            Console.WriteLine("Please enter another number.");
+            string userInput2 = Console.ReadLine();
+
+            math.Div = userInput2;
+
             int quot = math.Divide("10");
-            Console.WriteLine("The quotient of " + userInput + " / 10 is: " + quot);
+            Console.WriteLine("The quotient of " + userInput2 + " / 10 is: " + quot);
 
 
 
