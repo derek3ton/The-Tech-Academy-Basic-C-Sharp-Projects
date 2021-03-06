@@ -18,8 +18,9 @@ namespace AssignmentPg281
             Console.WriteLine("Please enter a second whole number."); // Takes in second integer
             int Number2 = Convert.ToInt32(Console.ReadLine());   // and stores in variable
 
-            math.Output(Number1, Number2); // Calls method and outputs result
-
+           
+            math.Output(num1: Number1, num2: Number2); // Calls method and named parameters then outputs result
+            
 
             Console.ReadLine();
         }
