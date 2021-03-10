@@ -1,0 +1,2 @@
+C:\Users\derek\source\repos\AssignmentPgs302and305\obj\Debug\AssignmentPgs302and305.csprojAssemblyReference.cache
+C:\Users\derek\source\repos\AssignmentPgs302and305\obj\Debug\AssignmentPgs302and305.csproj.CoreCompileInputs.cache
