@@ -16,7 +16,10 @@ namespace AssignmentPgs302and305
 
             employee.SayName();  //Calling method and displaying result. 
 
-            employee.Quit();  //Calling interface IQuittable and outputting method result
+            IQuittable quittable = new Employee(); //Instantiating new IQuittable object from Employee class
+            employee.Quit();  //Calling Method displaying result
+
+            
 
             Console.ReadLine();
         }

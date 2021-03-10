@@ -13,5 +13,6 @@ namespace AssignmentPgs302and305
             Console.WriteLine("I quit."); //Outputs result of calling IQuittable
         }
 
+
     }
 }
