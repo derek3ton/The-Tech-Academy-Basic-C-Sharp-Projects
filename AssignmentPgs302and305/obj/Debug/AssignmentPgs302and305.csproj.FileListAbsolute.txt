@@ -1,2 +1,7 @@
 C:\Users\derek\source\repos\AssignmentPgs302and305\obj\Debug\AssignmentPgs302and305.csprojAssemblyReference.cache
 C:\Users\derek\source\repos\AssignmentPgs302and305\obj\Debug\AssignmentPgs302and305.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\AssignmentPgs302and305\bin\Debug\AssignmentPgs302and305.exe.config
+C:\Users\derek\source\repos\AssignmentPgs302and305\bin\Debug\AssignmentPgs302and305.exe
+C:\Users\derek\source\repos\AssignmentPgs302and305\bin\Debug\AssignmentPgs302and305.pdb
+C:\Users\derek\source\repos\AssignmentPgs302and305\obj\Debug\AssignmentPgs302and305.exe
+C:\Users\derek\source\repos\AssignmentPgs302and305\obj\Debug\AssignmentPgs302and305.pdb

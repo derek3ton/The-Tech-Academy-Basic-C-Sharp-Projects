@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace AssignmentPgs302and305
 {
-    public interface IQuittable
+    interface IQuittable //Creating interface
     {
-        void Quit()
-        {
-
-        }
+        void Quit(); //Defining method Quit()
     }
 }

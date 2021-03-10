@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace AssignmentPgs302and305
 {
-    public class Employee : Person  //defining Employee class and inheriting from class Person
+    public class Employee : Person, IQuittable  //Implementing Employee class and inheriting from class Person and IQuittable
     {
-        //public void SayName()  // re-using method from class Person, commented out due to it not being needed and to show effort.  
-        //{
-        //    Console.WriteLine("Name: " + firstName + " " + lastName);
-        //}
+        public void Quit()  // Creating method 
+        {
+            Console.WriteLine("I quit."); //Outputs result of calling IQuittable
+        }
+
     }
 }

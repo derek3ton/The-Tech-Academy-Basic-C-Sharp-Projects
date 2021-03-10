@@ -9,12 +9,14 @@ namespace AssignmentPgs302and305
     class Program
     {
         static void Main(string[] args)
-        {
-            Employee employee = new Employee(); //Instantiating employee class
+        {   
+            Employee employee = new Employee(); //Instantiating employee class 
             employee.firstName = "Sample";  //Initializing employee class and setting variable
             employee.lastName = "Student";
 
             employee.SayName();  //Calling method and displaying result. 
+
+            employee.Quit();  //Calling interface IQuittable and outputting method result
 
             Console.ReadLine();
         }
