@@ -1,0 +1,7 @@
+C:\Users\derek\source\repos\StructAssignmentPg331\bin\Debug\StructAssignmentPg331.exe.config
+C:\Users\derek\source\repos\StructAssignmentPg331\bin\Debug\StructAssignmentPg331.exe
+C:\Users\derek\source\repos\StructAssignmentPg331\bin\Debug\StructAssignmentPg331.pdb
+C:\Users\derek\source\repos\StructAssignmentPg331\obj\Debug\StructAssignmentPg331.csprojAssemblyReference.cache
+C:\Users\derek\source\repos\StructAssignmentPg331\obj\Debug\StructAssignmentPg331.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\StructAssignmentPg331\obj\Debug\StructAssignmentPg331.exe
+C:\Users\derek\source\repos\StructAssignmentPg331\obj\Debug\StructAssignmentPg331.pdb
