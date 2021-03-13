@@ -13,7 +13,7 @@ namespace AssignmentPgs302and305
 
         public void SayName()  //Defining method to be used
         {
-            Console.WriteLine("Name: " + firstName + " " + lastName); //Outputting result of the method
+            Console.WriteLine("Name: " + firstName + " " + lastName ); //Outputting result of the method
         }
     }
 }

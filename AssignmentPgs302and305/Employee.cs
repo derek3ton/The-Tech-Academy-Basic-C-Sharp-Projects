@@ -6,10 +6,24 @@ using System.Threading.Tasks;
 
 namespace AssignmentPgs302and305
 {
-    public class Employee<T> : Person //IQuittable  //Implementing Employee class and inheriting from class Person and IQuittable
+    public class Employee : Person //IQuittable  //Implementing Employee class and inheriting from class Person and IQuittable
     {
-        public int Id { get; set; }
-        public List<T> Things { get; set; }  //creating generic list property
+        //Setting properties of Employee class
+        public string First { get; set; }
+        public string Last { get; set; }
+        public int Id { get; set; } 
+
+
+
+
+
+        //blic List<T> EmployeeList { get; set; }  //creating generic list property
+
+
+
+
+
+
 
         //public void Quit()  // Creating method 
         //{
