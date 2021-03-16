@@ -11,14 +11,15 @@ namespace AssignmentPg365
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter any number.");
-            string userInput = Console.ReadLine();
-            File.WriteAllText(@"C:\Users\derek\source\repos\AssignmentPg365\Log.txt", userInput);
+            Console.WriteLine("Please enter any number.");  //Asks user for input from console
+
+            string userInput = Console.ReadLine(); //stores user input in var
+            File.WriteAllText(@"C:\Users\derek\source\repos\AssignmentPg365\Log.txt", userInput); //Writes text to new .txt file using specified path
 
 
-            string readBack = File.ReadAllText(@"C:\Users\derek\source\repos\AssignmentPg365\Log.txt");
-            userInput = readBack;
-            Console.WriteLine("You chose the number: " + readBack);
+            string readBack = File.ReadAllText(@"C:\Users\derek\source\repos\AssignmentPg365\Log.txt");  // declaring new string var to store user input saved to file
+            userInput = readBack;  //storing user input into new var   
+            Console.WriteLine("You chose the number: " + readBack);  //Writing text that the user saved into file, to the console.
 
             Console.ReadLine();
         }
