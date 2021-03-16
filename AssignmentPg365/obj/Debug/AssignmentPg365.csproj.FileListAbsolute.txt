@@ -1,0 +1,7 @@
+C:\Users\derek\source\repos\AssignmentPg365\bin\Debug\AssignmentPg365.exe.config
+C:\Users\derek\source\repos\AssignmentPg365\bin\Debug\AssignmentPg365.exe
+C:\Users\derek\source\repos\AssignmentPg365\bin\Debug\AssignmentPg365.pdb
+C:\Users\derek\source\repos\AssignmentPg365\obj\Debug\AssignmentPg365.csprojAssemblyReference.cache
+C:\Users\derek\source\repos\AssignmentPg365\obj\Debug\AssignmentPg365.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\AssignmentPg365\obj\Debug\AssignmentPg365.exe
+C:\Users\derek\source\repos\AssignmentPg365\obj\Debug\AssignmentPg365.pdb
