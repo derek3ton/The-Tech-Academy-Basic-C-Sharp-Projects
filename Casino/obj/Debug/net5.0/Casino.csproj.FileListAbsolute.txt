@@ -1,0 +1,12 @@
+C:\Users\derek\source\repos\Casino\bin\Debug\net5.0\Casino.deps.json
+C:\Users\derek\source\repos\Casino\bin\Debug\net5.0\Casino.dll
+C:\Users\derek\source\repos\Casino\bin\Debug\net5.0\ref\Casino.dll
+C:\Users\derek\source\repos\Casino\bin\Debug\net5.0\Casino.pdb
+C:\Users\derek\source\repos\Casino\obj\Debug\net5.0\Casino.csprojAssemblyReference.cache
+C:\Users\derek\source\repos\Casino\obj\Debug\net5.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derek\source\repos\Casino\obj\Debug\net5.0\Casino.AssemblyInfoInputs.cache
+C:\Users\derek\source\repos\Casino\obj\Debug\net5.0\Casino.AssemblyInfo.cs
+C:\Users\derek\source\repos\Casino\obj\Debug\net5.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\Casino\obj\Debug\net5.0\Casino.dll
+C:\Users\derek\source\repos\Casino\obj\Debug\net5.0\ref\Casino.dll
+C:\Users\derek\source\repos\Casino\obj\Debug\net5.0\Casino.pdb
