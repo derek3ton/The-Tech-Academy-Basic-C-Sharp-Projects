@@ -11,27 +11,35 @@ namespace AssignmentPg388
         static void Main(string[] args)
         {
             Console.WriteLine("Please enter your current age.");
-            int age = Convert.ToInt32(Console.ReadLine());
+            var age = Convert.ToInt32(Console.ReadLine());
             var currentYear = DateTime.Now.Year;
-            
-            if (age <= 0)
-            {
-                try
-                {
-                    var yearBorn = currentYear - age;
-                    Console.WriteLine("Your birth year is: {0}", yearBorn);
-                    Console.ReadLine();
-                    return;
-                }
-                catch (Exception)
-                {
-                    Console.WriteLine("Ooops");
-                }
-            }
-            
+            var yearBorn = currentYear - age;
 
-            Console.ReadLine();
+            try
+            {
+                if (age <= 0)
+                {
+                    throw new ArgumentException();
+                }
+
+                Console.WriteLine("Your birth year is: {0}", yearBorn);
+                Console.ReadLine();
+                return;
+            }
+            catch (ArgumentException)
+            {
+                Console.WriteLine("Please enter whole numbers only!");
+                Console.ReadLine();
+                return;
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("An error has occurred.  Please contact your systems administrator.");
+                Console.ReadLine();
+                
+            }
 
         }
-    }
+        
+    }    
 }
