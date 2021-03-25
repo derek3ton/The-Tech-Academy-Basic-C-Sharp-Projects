@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerTimeApp", "ServerTimeApp.csproj", "{D12CF5D4-40D8-4D25-84BE-B7B23539CD8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D12CF5D4-40D8-4D25-84BE-B7B23539CD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12CF5D4-40D8-4D25-84BE-B7B23539CD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12CF5D4-40D8-4D25-84BE-B7B23539CD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12CF5D4-40D8-4D25-84BE-B7B23539CD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCF67DC6-7497-4B49-9DB4-2C374681A6C8}
+	EndGlobalSection
+EndGlobal
