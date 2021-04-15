@@ -1,7 +1,0 @@
-C:\Users\derek\source\repos\AssignmentPg227\obj\Debug\AssignmentPg227.csprojAssemblyReference.cache
-C:\Users\derek\source\repos\AssignmentPg227\obj\Debug\AssignmentPg227.csproj.CoreCompileInputs.cache
-C:\Users\derek\source\repos\AssignmentPg227\bin\Debug\AssignmentPg227.exe.config
-C:\Users\derek\source\repos\AssignmentPg227\bin\Debug\AssignmentPg227.exe
-C:\Users\derek\source\repos\AssignmentPg227\bin\Debug\AssignmentPg227.pdb
-C:\Users\derek\source\repos\AssignmentPg227\obj\Debug\AssignmentPg227.exe
-C:\Users\derek\source\repos\AssignmentPg227\obj\Debug\AssignmentPg227.pdb
