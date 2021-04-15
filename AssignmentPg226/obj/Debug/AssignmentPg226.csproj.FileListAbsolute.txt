@@ -1,7 +1,0 @@
-C:\Users\derek\source\repos\AssignmentPg226\bin\Debug\AssignmentPg226.exe.config
-C:\Users\derek\source\repos\AssignmentPg226\bin\Debug\AssignmentPg226.exe
-C:\Users\derek\source\repos\AssignmentPg226\bin\Debug\AssignmentPg226.pdb
-C:\Users\derek\source\repos\AssignmentPg226\obj\Debug\AssignmentPg226.csprojAssemblyReference.cache
-C:\Users\derek\source\repos\AssignmentPg226\obj\Debug\AssignmentPg226.csproj.CoreCompileInputs.cache
-C:\Users\derek\source\repos\AssignmentPg226\obj\Debug\AssignmentPg226.exe
-C:\Users\derek\source\repos\AssignmentPg226\obj\Debug\AssignmentPg226.pdb
