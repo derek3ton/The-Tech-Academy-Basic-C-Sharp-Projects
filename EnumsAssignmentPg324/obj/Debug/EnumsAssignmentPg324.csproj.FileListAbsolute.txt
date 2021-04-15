@@ -1,7 +1,0 @@
-C:\Users\derek\source\repos\EnumsAssignmentPg324\bin\Debug\EnumsAssignmentPg324.exe.config
-C:\Users\derek\source\repos\EnumsAssignmentPg324\bin\Debug\EnumsAssignmentPg324.exe
-C:\Users\derek\source\repos\EnumsAssignmentPg324\bin\Debug\EnumsAssignmentPg324.pdb
-C:\Users\derek\source\repos\EnumsAssignmentPg324\obj\Debug\EnumsAssignmentPg324.csprojAssemblyReference.cache
-C:\Users\derek\source\repos\EnumsAssignmentPg324\obj\Debug\EnumsAssignmentPg324.csproj.CoreCompileInputs.cache
-C:\Users\derek\source\repos\EnumsAssignmentPg324\obj\Debug\EnumsAssignmentPg324.exe
-C:\Users\derek\source\repos\EnumsAssignmentPg324\obj\Debug\EnumsAssignmentPg324.pdb
