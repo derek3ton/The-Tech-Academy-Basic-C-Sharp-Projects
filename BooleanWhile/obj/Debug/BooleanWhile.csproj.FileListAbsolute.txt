@@ -1,7 +1,0 @@
-C:\Users\derek\source\repos\BooleanWhile\bin\Debug\BooleanWhile.exe.config
-C:\Users\derek\source\repos\BooleanWhile\bin\Debug\BooleanWhile.exe
-C:\Users\derek\source\repos\BooleanWhile\bin\Debug\BooleanWhile.pdb
-C:\Users\derek\source\repos\BooleanWhile\obj\Debug\BooleanWhile.csprojAssemblyReference.cache
-C:\Users\derek\source\repos\BooleanWhile\obj\Debug\BooleanWhile.csproj.CoreCompileInputs.cache
-C:\Users\derek\source\repos\BooleanWhile\obj\Debug\BooleanWhile.exe
-C:\Users\derek\source\repos\BooleanWhile\obj\Debug\BooleanWhile.pdb
