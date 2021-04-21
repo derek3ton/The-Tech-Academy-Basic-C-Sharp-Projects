@@ -1,7 +1,0 @@
-C:\Users\derek\source\repos\AssignmentPg383\bin\Debug\AssignmentPg383.exe.config
-C:\Users\derek\source\repos\AssignmentPg383\bin\Debug\AssignmentPg383.exe
-C:\Users\derek\source\repos\AssignmentPg383\bin\Debug\AssignmentPg383.pdb
-C:\Users\derek\source\repos\AssignmentPg383\obj\Debug\AssignmentPg383.csprojAssemblyReference.cache
-C:\Users\derek\source\repos\AssignmentPg383\obj\Debug\AssignmentPg383.csproj.CoreCompileInputs.cache
-C:\Users\derek\source\repos\AssignmentPg383\obj\Debug\AssignmentPg383.exe
-C:\Users\derek\source\repos\AssignmentPg383\obj\Debug\AssignmentPg383.pdb

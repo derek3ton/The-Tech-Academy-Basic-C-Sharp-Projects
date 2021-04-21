@@ -1,7 +1,0 @@
-C:\Users\derek\source\repos\AssignmentPg285\bin\Debug\AssignmentPg285.exe.config
-C:\Users\derek\source\repos\AssignmentPg285\bin\Debug\AssignmentPg285.exe
-C:\Users\derek\source\repos\AssignmentPg285\bin\Debug\AssignmentPg285.pdb
-C:\Users\derek\source\repos\AssignmentPg285\obj\Debug\AssignmentPg285.csprojAssemblyReference.cache
-C:\Users\derek\source\repos\AssignmentPg285\obj\Debug\AssignmentPg285.csproj.CoreCompileInputs.cache
-C:\Users\derek\source\repos\AssignmentPg285\obj\Debug\AssignmentPg285.exe
-C:\Users\derek\source\repos\AssignmentPg285\obj\Debug\AssignmentPg285.pdb

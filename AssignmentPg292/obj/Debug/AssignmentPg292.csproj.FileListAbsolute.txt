@@ -1,7 +1,0 @@
-C:\Users\derek\source\repos\AssignmentPg292\bin\Debug\AssignmentPg292.exe.config
-C:\Users\derek\source\repos\AssignmentPg292\bin\Debug\AssignmentPg292.exe
-C:\Users\derek\source\repos\AssignmentPg292\bin\Debug\AssignmentPg292.pdb
-C:\Users\derek\source\repos\AssignmentPg292\obj\Debug\AssignmentPg292.csprojAssemblyReference.cache
-C:\Users\derek\source\repos\AssignmentPg292\obj\Debug\AssignmentPg292.csproj.CoreCompileInputs.cache
-C:\Users\derek\source\repos\AssignmentPg292\obj\Debug\AssignmentPg292.exe
-C:\Users\derek\source\repos\AssignmentPg292\obj\Debug\AssignmentPg292.pdb
